@@ -1,5 +1,3 @@
-
-
 def unsafe?(speed)
   
 end
@@ -12,4 +10,3 @@ end
 	
 
 
-binding.pry
